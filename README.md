@@ -15,4 +15,7 @@
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
 
+## Блок схема основного метода
+![final_block_diagram](final_block_diagram.jpg)
+
 
